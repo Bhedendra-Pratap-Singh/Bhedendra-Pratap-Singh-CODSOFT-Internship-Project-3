@@ -1,2 +1,1 @@
-# Bhedendra-Pratap-Singh-CODSOFT-Internship-Project-3
-CALCULATOR
+This is Calculator which is created by using HTML, CSS and JAVASCRIPT 
